@@ -28,5 +28,3 @@ RSpec.describe StringBuilder do
   end
 
 end
-
-#
